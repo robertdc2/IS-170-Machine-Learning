@@ -3,13 +3,13 @@
  
   A. [Sanchez_Fuentes_Lab2.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/2.-Pandas-%26-Feature-Engineering/Sanchez_Fuentes_Lab2.ipynb)
  
-  B.
+  B. [Homework_2.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/2.-Pandas-%26-Feature-Engineering/Homework_2.ipynb)
 
 # 2. Text Mining & Natural Language Processing (NLP)
 
- A.
+ A. [Sanchez_Schultz_Lab_Sentiment_Analysis_1.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/3.-Text-Mining-%26-NLP/Sanchez_Schultz_Lab_Sentiment_Analysis_1.ipynb)
  
- B.
+ B. [Sanchez_Schultz_Lab_Text_Mining_and_NLP_1.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/3.-Text-Mining-%26-NLP/Sanchez_Schultz_Lab_Text_Mining_and_NLP_1.ipynb)
  
  C.
  
