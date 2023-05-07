@@ -5,4 +5,9 @@
  
   B.
 
-2.
+# 2. Text Mining & Natural Language Processing (NLP)
+
+ A.
+ B.
+ C.
+ D.
