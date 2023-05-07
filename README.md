@@ -1,1 +1,1 @@
-# IS-170-Machine-Learning-Binder
+# Association Rules
