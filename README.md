@@ -1,9 +1,9 @@
 # Table Of Contents
 # 1. Pandas & Feature Engineering
  
-  A. [Sanchez_Fuentes_Lab2.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/2.-Pandas-%26-Feature-Engineering/Sanchez_Fuentes_Lab2.ipynb)
+  A. [Sanchez_Fuentes_Lab2.ipynb]
  
-  B. [Homework_2.ipynb](https://github.com/robertdc2/IS-170-Machine-Learning/blob/2.-Pandas-%26-Feature-Engineering/Homework_2.ipynb)
+  B. [Homework_2.ipynb]
 
 # 2. Text Mining & Natural Language Processing (NLP)
 
