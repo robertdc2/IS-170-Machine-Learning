@@ -1,1 +1,3 @@
 # Text Mining & Natural Language Processing (NLP)
+
+Text Mining and Natural Language Processing (NLP) are two closely related fields that focus on extracting meaningful information and insights from textual data. Text Mining involves the process of analyzing and interpreting large volumes of unstructured text data, such as documents, social media posts, emails, and more. It aims to uncover patterns, trends, and relationships within the text. Natural Language Processing on the other hand, is a subset of Artificial Intelligence that deals specifically with the interaction between computers and human language. It encompasses a range of techniques and algorithms that enable computers to understand, interpret, and generate human language. 
