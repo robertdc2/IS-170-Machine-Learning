@@ -58,9 +58,3 @@ B. HW NAME - Sanchez_HW10_Decision_Tree.ipynb
 A. LAB NAME - Sanchez_Morales_Lab_11.ipynb
 
 B. HW NAME - Sanchez_HW_11_SVM.ipynb
-
-# 11. Social Media Analysis
-
-A.
-
-B.
