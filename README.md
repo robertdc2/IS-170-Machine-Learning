@@ -1,1 +1,3 @@
 # Regression Analysis
+
+Regression analysis is a statistical modeling technique used to investigate the relationship between a dependent variable and one or more independent variables. It is widely used in various fields such as finance, economics, social sciences, and engineering. The goal of regression analysis is to estimate the parameters of a regression function that can be used to predict the value of the dependent variable based on the values of the independent variables. Regression analysis can also be used to analyze the strength and direction of the relationship between the variables, test hypotheses, and assess the accuracy and reliability of the model. The choice of the regression model depends on the type of data and the research question being addressed. 
