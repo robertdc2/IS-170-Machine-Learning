@@ -1,1 +1,3 @@
 # K-Means Clustering
+
+K-Means Clustering is an unsupervised machine learning algorithm used for grouping data into distinct clusters based on their similarities. It is a simple and efficient algorithm that iteratively partitions data points into K clusters, where K is a user-defined parameter. The algorithm works by initializing K centroids randomly, then assigning each data point to the nearest centroid based on a chosen distance metric. After all data points have been assigned, the centroids are updated by computing the mean of the points within each cluster. This process of assignment is repeated until convergence, when the clusters stabilize and do not change significantly. 
