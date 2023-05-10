@@ -1,1 +1,3 @@
 # Principal Component Analysis
+
+Principal Component Analysis is a widely used dimensionality reduction technique in data analysis and machine learning. It aims to transform a high-dimensional dataset into a lower-dimensional space while retaining the most important information. PCA achieves this by identifying the principal components, which are orthogonal linear combinations of the original variables. These components capture the maximum amount of variation in the data. The first principal component explains the largest possible variance, followed by the second, third, and so on. By selecting a subset of the principal components, one can effectively reduce the dimensionality of the dataset while minimizing information loss.
